@@ -1,6 +1,6 @@
 # Ahmed Khalil - Étudiant en Ingénierie Informatique (Master IOT-CPS)
 
-## 👋 Introduction
+## Introduction
 Hello! I'm Ahmed, a passionate student in computer engineering specializing in IoT and embedded systems. I aspire to make significant contributions to the fields of computing and IoT.
 
 ![IoT GIF](https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif)
@@ -8,9 +8,7 @@ Hello! I'm Ahmed, a passionate student in computer engineering specializing in I
 ## 🛠 Skills
 - **Embedded Systems and IoT**: Proficient in C/C++, experienced with STM32, ESP32, and Raspberry Pi.
 - **Software Development**: Skilled in C# .NET, Java, ReactJS, TypeScript.
-
-![C++ Badge](C++_Badge_URL) ![Java Badge](Java_Badge_URL)
-
+- 
 ## 📈 GitHub Stats
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-Khalil404&show_icons=true)
 
