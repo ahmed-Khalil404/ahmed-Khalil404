@@ -9,8 +9,6 @@ Hello! I'm Ahmed, a passionate student in computer engineering specializing in I
 - **Embedded Systems and IoT**: Proficient in C/C++, experienced with STM32, ESP32, and Raspberry Pi.
 - **Software Development**: Skilled in C# .NET, Java, ReactJS, TypeScript.
 - 
-## 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-Khalil404&show_icons=true)
 
 ## 🌍 Languages
 - French: B2 Level (TCF)
@@ -20,4 +18,3 @@ Hello! I'm Ahmed, a passionate student in computer engineering specializing in I
 - LinkedIn: [ahmedkhalil-ben-sassi](https://www.linkedin.com/in/ahmedkhalil-ben-sassi-009bbb209/)
 - Email: [ahmed-khalil.ben-sassi@etu.univ-cotedazur.fr](mailto:ahmed-khalil.ben-sassi@etu.univ-cotedazur.fr)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ahmed-Khalil404)
