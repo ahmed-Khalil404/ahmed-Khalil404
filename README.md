@@ -1,7 +1,5 @@
 # Ahmed Khalil - Étudiant en Ingénierie Informatique (Master IOT-CPS)
-
-## Introduction
-Hello! I'm Ahmed, a passionate student in computer engineering specializing in IoT and embedded systems. 
+Welcome to my realm ! 
 
 ![IoT GIF](https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif)
 
